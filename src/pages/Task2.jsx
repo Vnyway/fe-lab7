@@ -6,7 +6,7 @@ import { Link } from "react-router-dom";
 
 const Task2 = () => {
   return (
-    <main>
+    <main className="main">
       <Link className="link" to="/">
         Завдання 1
       </Link>

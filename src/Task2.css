@@ -18,7 +18,7 @@
 }
 
 @media (min-width: 0px) {
-  main {
+  .main {
     margin: 8px 8px;
   }
   .cards-container {
@@ -27,7 +27,7 @@
 }
 
 @media (min-width: 400px) {
-  main {
+  .main {
     margin: 40px 40px;
   }
   .cards-container {
@@ -36,7 +36,7 @@
 }
 
 @media (min-width: 800px) {
-  main {
+  .main {
     margin: 60px 100px;
   }
   .cards-container {
@@ -45,7 +45,7 @@
 }
 
 @media (min-width: 1400px) {
-  main {
+  .main {
     margin: 60px 150px;
   }
   .cards-container {
